@@ -1,77 +1,77 @@
 [
   {
     "id": 1,
-    "frontText": "Обмежте споживання цукру",
-    "backText": "Скоротіть кількість доданого цукру в раціоні до 25 грамів на день, щоб покращити здоров'я."
+    "frontText": "Limit sugar intake",
+    "backText": "Reduce the amount of added sugar in your diet to 25 grams per day to improve health."
   },
   {
     "id": 2,
-    "frontText": "Обирайте свіжі фрукти",
-    "backText": "Фрукти містять натуральний цукор і корисні вітаміни та мінерали, замінюйте ними солодощі."
+    "frontText": "Choose fresh fruits",
+    "backText": "Fruits contain natural sugar and beneficial vitamins and minerals, replace sweets with them."
   },
   {
     "id": 3,
-    "frontText": "Пийте більше води",
-    "backText": "Вода допомагає зменшити бажання їсти солодке і підтримує гідратацію організму."
+    "frontText": "Drink more water",
+    "backText": "Water helps reduce the desire for sweets and maintains body hydration."
   },
   {
     "id": 4,
-    "frontText": "Уникайте солодких напоїв",
-    "backText": "Солодкі напої містять багато цукру та калорій, замінюйте їх на воду або трав'яний чай."
+    "frontText": "Avoid sugary drinks",
+    "backText": "Sugary drinks contain a lot of sugar and calories, replace them with water or herbal tea."
   },
   {
     "id": 5,
-    "frontText": "Читайте етикетки продуктів",
-    "backText": "Звертайте увагу на вміст цукру в продуктах, особливо у прихованих формах."
+    "frontText": "Read product labels",
+    "backText": "Pay attention to the sugar content in products, especially hidden forms."
   },
   {
     "id": 6,
-    "frontText": "Використовуйте замінники цукру",
-    "backText": "Натуральні замінники, такі як стевія або еритрит, можуть допомогти зменшити споживання цукру."
+    "frontText": "Use sugar substitutes",
+    "backText": "Natural substitutes like stevia or erythritol can help reduce sugar consumption."
   },
   {
     "id": 7,
-    "frontText": "Готуйте вдома",
-    "backText": "Приготування їжі самостійно дозволяє контролювати кількість доданого цукру."
+    "frontText": "Cook at home",
+    "backText": "Cooking at home allows you to control the amount of added sugar."
   },
   {
     "id": 8,
-    "frontText": "Збільшіть споживання білка",
-    "backText": "Білок допомагає довше зберігати відчуття ситості та знижує тягу до солодкого."
+    "frontText": "Increase protein intake",
+    "backText": "Protein helps maintain a feeling of fullness longer and reduces sugar cravings."
   },
   {
     "id": 9,
-    "frontText": "Знижуйте рівень стресу",
-    "backText": "Високий рівень стресу може збільшити бажання споживати солодощі, тому займайтеся релаксацією."
+    "frontText": "Reduce stress levels",
+    "backText": "High stress levels can increase the desire for sweets, so engage in relaxation."
   },
   {
     "id": 10,
-    "frontText": "Сон і відпочинок",
-    "backText": "Нестача сну може підвищити апетит на солодке, забезпечте собі якісний відпочинок."
+    "frontText": "Sleep and rest",
+    "backText": "Lack of sleep can increase the appetite for sweets, ensure quality rest."
   },
   {
     "id": 11,
-    "frontText": "Плануйте перекуси",
-    "backText": "Наявність здорових перекусів під рукою допоможе уникнути спонтанного споживання солодощів."
+    "frontText": "Plan snacks",
+    "backText": "Having healthy snacks on hand will help avoid spontaneous consumption of sweets."
   },
   {
     "id": 12,
-    "frontText": "Додавайте спеції",
-    "backText": "Використання кориці або ванілі може додати солодкий смак без додавання цукру."
+    "frontText": "Add spices",
+    "backText": "Using cinnamon or vanilla can add a sweet flavor without adding sugar."
   },
   {
     "id": 13,
-    "frontText": "Збільшіть споживання клітковини",
-    "backText": "Клітковина сприяє тривалому відчуттю ситості та стабілізує рівень цукру в крові."
+    "frontText": "Increase fiber intake",
+    "backText": "Fiber promotes a long-lasting feeling of fullness and stabilizes blood sugar levels."
   },
   {
     "id": 14,
-    "frontText": "Будьте усвідомлені",
-    "backText": "Практикуйте усвідомлене харчування, звертаючи увагу на свої смакові вподобання та сигнали організму."
+    "frontText": "Be mindful",
+    "backText": "Practice mindful eating, paying attention to your taste preferences and body signals."
   },
   {
     "id": 15,
-    "frontText": "Зменшіть кількість десертів",
-    "backText": "Зменшуйте частоту споживання десертів і замінюйте їх більш здоровими альтернативами."
+    "frontText": "Reduce desserts",
+    "backText": "Reduce the frequency of dessert consumption and replace them with healthier alternatives."
   }
 ]
